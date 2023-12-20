@@ -26,3 +26,6 @@ Technology Used
 React for Frontend
 Node and Express for backend
 Mysql as a Database
+
+ER Diagram:
+
