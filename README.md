@@ -1,5 +1,5 @@
-Project Title - YOGA-Application
-# Problem Statement:
+# Project Title - YOGA-Application
+## Problem Statement:
 Assume that you are the CTO of an outsourcing firm which has been chosen to build an
 admission form for the Yoga Classes which happen every month.
 Requirements for the admission form are:
@@ -14,7 +14,7 @@ month. I.e. participants can shift from one batch to another in different months
 same month they need to be in the same batch.
 
 
-Features
+## Features
 - User can create account.
 - User details while sign up will be validated
 - User can subscribe a plan.
@@ -22,10 +22,12 @@ Features
 - Once Subscribed can't changed the plan for whole month.
 
   
-Technology Used
+## Technology Used
 React for Frontend
 Node and Express for backend
 Mysql as a Database
 
-ER Diagram:
+## ER Diagram:
+
+![Screenshot (513)](https://github.com/D-P-01/YOGA-FRONT_END/assets/148607994/f62be719-5791-4aa2-9936-6665e81f8b4d)
 
