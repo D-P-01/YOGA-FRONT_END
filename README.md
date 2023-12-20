@@ -38,25 +38,25 @@ The Email ID serves as the primary key, while the "Valid till" attribute is cons
 ## Results:
 
 ![Screenshot (525)](https://github.com/D-P-01/YOGA-FRONT_END/assets/148607994/0632e38d-1126-457a-9c3e-89aace2c3ea2)
-Login Page 
+####Login Page 
 
 ![Screenshot (526)](https://github.com/D-P-01/YOGA-FRONT_END/assets/148607994/d4a7aa0f-4837-4f21-bc14-a22921409477)
-Dahboard for Registered Candidate
+####Dahboard for Registered Candidate
 
 ![Screenshot (527)](https://github.com/D-P-01/YOGA-FRONT_END/assets/148607994/9f62a0d5-0e0b-4297-9346-0c518aa164cf)
-Class Details of Registered Candidate
+####Class Details of Registered Candidate
 
 ![Screenshot (528)](https://github.com/D-P-01/YOGA-FRONT_END/assets/148607994/433ce7ae-8bb9-4495-8482-c51b0b110b52)
-Registration Form for enrollment in Yoga Class
+####Registration Form for enrollment in Yoga Class
 
 ![Screenshot (529)](https://github.com/D-P-01/YOGA-FRONT_END/assets/148607994/894317a5-6330-438c-8324-84e076f19ff2)
-Age constraint is between 18 and 65 for registration
+####Age constraint is between 18 and 65 for registration
 
 ![Screenshot (530)](https://github.com/D-P-01/YOGA-FRONT_END/assets/148607994/447f009e-4ebf-4049-a38e-82e3d107cbe8)
-Dashboard for a candidate who has made account but not yet enrolled
+####Dashboard for a candidate who has made account but not yet enrolled
 
 ![Screenshot (531)](https://github.com/D-P-01/YOGA-FRONT_END/assets/148607994/c859a2da-2bd0-4f0f-a3ca-4b5d48bd4b27)
-Payment Page 
+####Payment Page 
 
 
 
